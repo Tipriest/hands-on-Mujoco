@@ -1,0 +1,4 @@
+{
+  "python.languageServer": "Pylance",
+  "python.analysis.stubPath": "~/mujoco_typings_fix/typings"
+}
